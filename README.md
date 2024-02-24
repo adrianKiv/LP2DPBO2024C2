@@ -12,7 +12,7 @@ Program didesain menjadi empat class
 * **Shirt**
 * **Print**
 
-Class `Product` adalah class induk yang memiliki turunan yaitu class `Clothing` Class `Clothing` memiliki turunan yaitu class `Shirt` Maka dengan relasi seperti itu class `Shirt` menjadi cucu dari class `Product` atau class `Product` adalah buyut dari class `Shirt`. Sedangkan untuk class print dia hanya individu sendiri yang berfungsi untuk memberikan tampilan data dalam bentuk table.
+Class `Product` adalah class induk yang memiliki turunan yaitu class `Clothing` Class `Clothing` memiliki turunan yaitu class `Shirt` Maka dengan relasi seperti itu class `Shirt` menjadi cucu dari class `Product` atau class `Product` adalah buyut dari class `Shirt`. Sedangkan untuk class `print` dia hanya individu sendiri yang berfungsi untuk memberikan tampilan data dalam bentuk table.
 
 ## Desain Relasi
 ![Desain Kelas](https://github.com/adrianKiv/LP2DPBO2024C2/assets/134991383/806b3370-19cf-4da1-8e13-ad0d9f572f82)
